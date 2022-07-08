@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Walmart Releases  Repository</name>
+	      <name>Walmart releases  Repository</name>
 	      <url>http://13.235.67.201:9980/nexus/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Walmart Snapshot Repository </name>
+	      <name>Walmart snapshot Repository </name>
 	      <url>http://13.235.67.201:9980/nexus/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
